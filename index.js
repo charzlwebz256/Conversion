@@ -23,6 +23,6 @@ function dollarTKsh() {
     let dollar = 1000;
     let ksh = 1000*108;
      let balance = ksh-700;
-    console.log("The balance is ", balance, "ksh");
+    console.log("The balance is Ksh", balance,);
 }
 dollarTKsh();
